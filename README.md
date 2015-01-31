@@ -2,10 +2,10 @@
 A simple algorithm that reflects how a vending machine works when giving back change.
 
 ## Acceptance Criteria
-- Give back change largest first
+- Give back change largest coins first
 - Return error indication if no sufficient funds available
-- we should be able to add new denomination easily
-- ability to load coins
+- Should be able to add new currency denomination easily
+- Should have ability to load coins
 
 ## Change Making Problem
 This is very simple but efficient algorithm to calculate the change.
