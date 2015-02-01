@@ -40,6 +40,7 @@ This is very simple but efficient algorithm to calculate the change.
       }
   }
 ```
+Algorithms uses *SortedList*, what is a special implementation of *IDictionary* what keeps data sorted by Key. So, in this case  *Key* represents Denomination and *Value* is amount.
 
 ## Usage
 ```cs
